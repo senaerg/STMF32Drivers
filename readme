@@ -1,0 +1,11 @@
+A collection of embedded drivers for STM32 microcontrollers, written in C.
+
+This repository contains reusable low-level drivers and helper code for working with STM32 peripherals and external devices. The goal is to make embedded development easier by providing clean, modular, and portable driver implementations.
+
+## Features
+
+- Embedded C driver implementations.
+- Modular code structure for easy reuse.
+- STM32-friendly APIs for peripheral and device interaction.
+- Suitable for use with STM32CubeIDE, GCC, or other embedded toolchains.
+- Designed for learning, prototyping, and product development.
