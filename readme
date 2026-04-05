@@ -9,3 +9,8 @@ This repository contains reusable low-level drivers and helper code for working 
 - STM32-friendly APIs for peripheral and device interaction.
 - Suitable for use with STM32CubeIDE, GCC, or other embedded toolchains.
 - Designed for learning, prototyping, and product development.
+1. Clone the repository
+2. Open the project in your preferred STM32 development environment.
+3. Configure the target MCU and board.
+4. Build and flash the firmware.
+5. Review the example code to see how the drivers are initialized and used.
